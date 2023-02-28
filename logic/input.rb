@@ -6,4 +6,4 @@ name = gets.chomp
 puts "Informe seu sobrenome:"
 lastName = gets.chomp
 
-puts "#{name} #{lastName}"
+puts "Olá, #{name} #{lastName}"
